@@ -15,3 +15,4 @@ with open("transcription.txt", "w", encoding="utf-8") as f:
     f.write(result["text"])
 
 print("Done! Saved to transcription.txt")
+#test
